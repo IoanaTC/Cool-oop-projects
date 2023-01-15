@@ -1,9 +1,9 @@
-
 # OOP - Projects
+:running: Aplicaţie interactivă care simulează utilizarea unei Baze de Date
 
-    :running: Aplicaţie interactivă care simulează utilizarea unei Baze de Date
-    :snake: Program care se ocupă cu gestionarea activității unui lant de Farmacii
-    :house_with_garden: Instrument care facilitează organizarea mediului de lucru într-o Agenție Imobiliară
+:snake: Program care se ocupă cu gestionarea activității unui Lant de Farmacii
+
+:house_with_garden: Instrument care facilitează organizarea mediului de lucru într-o Agenție Imobiliară
 
 
 ## si anume:
@@ -14,17 +14,19 @@
 
 
 ## adică
+:one: Baza de date
 
-    1. Baza de date
-    ![](https://github.com/IoanaTC/Cool-oop-projects/blob/main/Media/bd.gif)
-
-
-    3. Agenția Imobiliară
-    ![](https://github.com/IoanaTC/Cool-oop-projects/blob/main/Media/ai.gif)
+![](https://github.com/IoanaTC/Cool-oop-projects/blob/main/Media/bd.gif)
 
 
-     2. Lanț de Farmacii
-    ![](https://github.com/IoanaTC/Cool-oop-projects/blob/main/Media/lf.gif)
+:two: Agenția Imobiliară
+
+![](https://github.com/IoanaTC/Cool-oop-projects/blob/main/Media/ai.gif)
+
+
+:three: Lanț de Farmacii
+
+![](https://github.com/IoanaTC/Cool-oop-projects/blob/main/Media/lf.gif)
 
 
     
